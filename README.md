@@ -1,7 +1,7 @@
 ```markdown
 # Sistema de Gestión de Estudiantes
 
-![Diagrama del Sistema de Gestión de Estudiantes](https://firebasestorage.googleapis.com/v0/b/packagestore-67c73.appspot.com/o/GestiondeEstudiantes.png?alt=media&token=abbe8c8c-a296-43e7-88b1-e8666f405307)
+![Diagrama del Sistema de Gestión de Estudiantes](docs/GestiondeEstudiantes.png)
 
 Sistema de consola desarrollado en Java estándar para la administración básica de alumnos y el registro de sus calificaciones académicas en memoria. El proyecto está enfocado en la aplicación práctica de los fundamentos de la **Programación Orientada a Objetos (POO)**, separación de responsabilidades y manejo robusto de excepciones.
 
