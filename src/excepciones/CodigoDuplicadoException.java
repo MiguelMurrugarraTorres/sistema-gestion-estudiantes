@@ -9,6 +9,6 @@ package excepciones;
  *
  * @author murtormi
  */
-public class CodigoDuplicadoException {
-    
+public class CodigoDuplicadoException extends Exception{
+    public CodigoDuplicadoException(String mensaje) { super(mensaje); }
 }

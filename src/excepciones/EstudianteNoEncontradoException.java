@@ -9,6 +9,6 @@ package excepciones;
  *
  * @author murtormi
  */
-public class EstudianteNoEncontradoException {
-    
+public class EstudianteNoEncontradoException extends Exception{
+    public EstudianteNoEncontradoException(String mensaje) { super(mensaje); }
 }
